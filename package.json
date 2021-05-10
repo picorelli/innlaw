@@ -11,7 +11,7 @@
   "dependencies": {
     "docxtemplater": "^3.14.2",
     "express": "^4.17.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "pdffiller": "0.0.11",
     "pizzip": "^3.0.6"
